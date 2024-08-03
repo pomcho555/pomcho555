@@ -28,8 +28,7 @@ jobs:
       - name: Use Kaggle Badges Action
         uses: spider-man-tm/kaggle-badges@v1.2.2
         with:
-          # ex. user_name: spidermandance
-          user_name: pomcho555
+          user_name: pompom555
           # example of using GitHub Secrets
           # user_name: ${{ secrets.KAGGLE_USERNAME }}
 
