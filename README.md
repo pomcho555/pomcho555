@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pompom555/competition) -->
+# Markdown
+
+![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+![](./kaggle-plates/Competitions/white.svg)
 
 Kaggle: https://www.kaggle.com/pompom555
 
