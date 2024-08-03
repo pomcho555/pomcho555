@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pompom555/competition)
 
+Kaggle: https://www.kaggle.com/pompom555
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pomcho555&count_private=true&show_icons=true" />
