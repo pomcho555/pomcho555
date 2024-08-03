@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pompom555/competition)
+<!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pompom555/competition) -->
 
 Kaggle: https://www.kaggle.com/pompom555
 
