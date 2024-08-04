@@ -15,12 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Markdown
+## Featured Skills
 
-![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
-![](./kaggle-plates/Competitions/white.svg)
+<!-- https://github.com/tandpfun/skill-icons#readme -->
+<img src="https://skillicons.dev/icons?i=linux,k8s,aws,gcp,github,gitlab,terraform,prometheus,grafana,go,py,pytorch,js&theme=light" />
 
-Kaggle: https://www.kaggle.com/pompom555
+
+### Achivements
+
+<div>
+  <a href="https://www.kaggle.com/pompom555">
+    <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" alt="KaggleCompetitionRank" />
+  </a>
+<!--   <a href="https://www.kaggle.com/pompom555">
+    <img src="./kaggle-badges/NotebooksRank/plastic-white.svg" alt="KaggleNotebooksRank" />
+  </a>
+  <a href="https://atcoder.jp/users/pompom555?contestType=algo">
+    <img src="https://badgen.org/img/atcoder/Spiderman_/rating/algorithm?style=plastic" alt="Rating" />
+  </a>
+  <a href="https://github.com/pompom555/blog-zenn">
+    <img src="https://badgen.org/img/zenn/takayoshi/articles?style=plastic" alt="Articles" />
+  </a>
+  <a href="https://github.com/pompom555/blog-qiita">
+    <img src="https://badgen.org/img/qiita/Takayoshi_Makabe/articles?style=plastic" alt="Articles" />
+  </a> -->
+</div>
+
+  <a href="https://www.kaggle.com/pompom555">
+    <img src="./kaggle-plates/Competitions/white.svg" />
+  </a>
+
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pomcho555&count_private=true&show_icons=true" />
