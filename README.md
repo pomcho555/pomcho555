@@ -51,5 +51,3 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pomcho555&count_private=true&show_icons=true" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pomcho555&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
