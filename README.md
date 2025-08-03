@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Featured Skills
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
-<img src="https://skillicons.dev/icons?i=linux,k8s,aws,gcp,github,gitlab,terraform,prometheus,grafana,go,py,pytorch,js&theme=light" />
+<img src="https://skillicons.dev/icons?i=linux,k8s,aws,gcp,github,gitlab,terraform,prometheus,grafana,rust,go,py,pytorch,js&theme=light" />
 
 
 ### Achivements
